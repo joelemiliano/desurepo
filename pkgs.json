@@ -5,9 +5,8 @@
       "desc": "Una aplicación de ejemplo para pruebas.",
       "compatible": ["winx86"],
       "execs": {
-        "winx86": "/execs/helloworld.exe/",
+        "winx86": "/execs/helloworld.exe"
       }
-
     }
   ]
 }
